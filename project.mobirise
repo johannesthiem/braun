@@ -22,7 +22,7 @@
     "uniqCompNum": 79,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "scrollAnimation": "true",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
@@ -91,7 +91,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>Neurologische Praxis</i></span>&nbsp;<br>Dr. med. Jörg Braun",
           "text": "&nbsp;<br><br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-white\" role=\"button\">Termin Online</a>"
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white\" role=\"button\">Termin Online</a>"
         },
         {
           "title": "Text with heading",
@@ -290,7 +290,7 @@
           },
           "title": "Sprechzeiten",
           "text1": "<p><b>KASSENSPRECHZEITEN</b> &nbsp;nach &nbsp;Vereinbarung:<br><br>Montag, Dienstag und Donnerstag &nbsp;&nbsp;<br><span style=\"background-color: inherit;\">10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr</span></p><p>Freitag &nbsp; <br>9-12 &nbsp;Uhr</p><br><p><b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler):<br><br>Montag, Dienstag und Donnerstag &nbsp; &nbsp;9-10 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br>Mittwoch und weitere Termine nach Vereinbarung</p>",
-          "text2": "<b>TELEFON: &nbsp; +<a href=\"tel:+49307447267\">49(030)7447267</a><br></b><br><b><br></b><br><b><br></b><br><b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h i e r</b><br>"
+          "text2": "<b>TELEFON: &nbsp; +<a href=\"tel:+49307447267\">49(030)7447267</a><br></b><br><b><br></b><br><b><br></b><br><b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"index.html\">h i e r</a></b><br>"
         },
         {
           "_styles": {
@@ -913,18 +913,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332-800x532.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7dc-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7dc-2000x1332.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7dc-2000x1332-800x532.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7dc-2000x1332.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -946,7 +946,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "2",
