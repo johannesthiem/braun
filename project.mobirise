@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "impressum.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 79,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -255,150 +255,6 @@
           "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores similique itaque possimus hic. Saepe et deleniti fugit qui, odit tenetur?"
         },
         {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cb-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cb-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c8-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c8-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c4-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c4-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cd-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cd-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cc-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cc-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fotolia-110185439-s-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fotolia-110185439-s-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ce-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ce-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cf-2000x1333-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cf-2000x1333.png",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#e5e5e5",
-            "filterBgColor": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-1e",
-          "articleLayout": false,
-          "allItem": "All",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg"
-        },
-        {
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -433,8 +289,8 @@
             "showText": true
           },
           "title": "Sprechzeiten",
-          "text1": "<p><b>KASSENSPRECHZEITEN</b> &nbsp;nach &nbsp;Vereinbarung:<br><br>Montag, Dienstag und Donnerstag&nbsp; &nbsp; 10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr<br>Freitag &nbsp; 9-12 &nbsp;Uhr</p><br><p><b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler):<br><br>Montag, Dienstag und Donnerstag &nbsp; &nbsp;9-10 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br>Mittwoch und weitere Termine nach Vereinbarung</p>",
-          "text2": "<b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h i e r</b><b><br></b><br><br><br><br>"
+          "text1": "<p><b>KASSENSPRECHZEITEN</b> &nbsp;nach &nbsp;Vereinbarung:<br><br>Montag, Dienstag und Donnerstag &nbsp;&nbsp;<br><span style=\"background-color: inherit;\">10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr</span></p><p>Freitag &nbsp; <br>9-12 &nbsp;Uhr</p><br><p><b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler):<br><br>Montag, Dienstag und Donnerstag &nbsp; &nbsp;9-10 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br>Mittwoch und weitere Termine nach Vereinbarung</p>",
+          "text2": "<b>TELEFON: &nbsp; +<a href=\"tel:+49307447267\">49(030)7447267</a><br></b><br><b><br></b><br><b><br></b><br><b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h i e r</b><br>"
         },
         {
           "_styles": {
@@ -676,17 +532,17 @@
             "Theme"
           ],
           "_name": "footer2",
-          "_anchor": "footer2-10",
           "_params": {
-            "bgColor": "#03592d",
-            "bgColorRadio": true
+            "bgColorRadio": true,
+            "bgColor": "#03592d"
           },
           "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;",
           "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding\" style=\"background-color: rgb(3, 89, 45);\">\n        \n        <footer class=\"footer\">\n        <div class=\"content-wide\">\n        <div class=\"container-wide container\">\n            <div class=\"row\">\n        \n                <div class=\"copyright nopadding\">\n                    <span class=\"mbr-editable-content\" code-editable-id=\"30\">2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp;| &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;</span>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    </footer>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "footer2-10"
         }
       ]
     },
@@ -701,46 +557,13 @@
             "Theme"
           ],
           "_name": "title4",
-          "_anchor": "title4-y",
+          "_anchor": "title4-24",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#151515",
-            "showSubtitle": false,
-            "showTitle": true,
-            "showSeparator": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "subtitle": "Subtitle",
-          "title": "<em>Title</em> with Text and Buttons",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
-        },
-        {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-z",
-          "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/1_1.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -762,91 +585,6 @@
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#03592d"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#03592d"
-            },
-            ".link, .dropdown-item": {
-              "color": "#03592d"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ca9801"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#eeb301!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fdbe01"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#03592d",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#03592d"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#222"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-t",
-          "_params": {
-            "bgColor": "#fdbe01",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#03592d",
-            "fontHoverColor": "#222",
-            "transparent": false,
-            "sticky": true,
-            "logo": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-kopf-name-574x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
-        },
-        {
           "title4": "mitchel jobs",
           "subtitle4": "Programmer",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
@@ -865,7 +603,7 @@
           "_anchor": "content4-x",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/2.jpg",
@@ -1009,70 +747,6 @@
           "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-1h",
-          "articleLayout": false,
-          "allItem": "All",
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg"
-        },
-        {
           "title": "Text with heading",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -1082,7 +756,7 @@
           "_name": "text9",
           "_anchor": "text9-1j",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
@@ -1098,15 +772,7 @@
             "overlayColor": "#151515"
           },
           "text": "Wir freuen uns auf Ihren Besuch!&nbsp;"
-        }
-      ]
-    },
-    "leistungen.html": {
-      "settings": {
-        "meta_descr": "",
-        "title": "Neurologiepraxis Dr. Jörg Braun Berlin | Leistungen"
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1167,7 +833,7 @@
             "Theme"
           ],
           "_name": "menu1",
-          "_anchor": "menu1-v",
+          "_anchor": "menu1-1q",
           "_params": {
             "bgColor": "#fdbe01",
             "fontSize": "1",
@@ -1191,6 +857,191 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+        },
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332-800x532.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cb-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cb-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c8-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c8-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c4-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c4-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cd-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cd-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cc-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cc-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-110185439-s-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-110185439-s-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ce-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ce-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cf-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cf-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#e5e5e5",
+            "filterBgColor": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-25",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg"
+        }
+      ]
+    },
+    "leistungen.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Neurologiepraxis Dr. Jörg Braun Berlin | Leistungen"
+      },
+      "components": [
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_anchor": "title3-26",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/1_2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showSeparator": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "subtitle": "Neurologische Praxis Dr. med. Jörg Braun",
+          "title": "<span style=\"font-weight: normal;\"><i>Die</i></span> Leistungen",
+          "text": "Mit gezielten <b>diagnostischen Maßnahmen</b> erkennen wir neurologische und psychiatrische Erkrankungen.  Verschiedene&nbsp;<b>therapeutische Maßnahmen </b>und <b>individuelle Zusatzleistungen</b> ermöglichen gesundheitliche Erfolge.<br>Dr. Braun verfügt über eine langjährige Erfahrung in der Erstellung von neurologischen / psychiatrischen <b>Gutachten</b>.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
         },
         {
           "media": {
@@ -1271,72 +1122,6 @@
           "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-11",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#151515",
-            "showSubtitle": false,
-            "showTitle": true,
-            "showSeparator": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "subtitle": "Subtitle",
-          "title": "<em>Title</em> with Text and Buttons",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
-        },
-        {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title3",
-          "_anchor": "title3-1b",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#151515",
-            "showSubtitle": true,
-            "showTitle": true,
-            "showSeparator": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "subtitle": "Neurologische Praxis Dr. med. Jörg Braun",
-          "title": "<span style=\"font-weight: normal;\"><i>Die</i></span> Leistungen",
-          "text": "Mit gezielten <b>diagnostischen Maßnahmen</b> erkennen wir neurologische und psychiatrische Erkrankungen.  Verschieden <b>therapeutische Maßnahmen </b>und <b>individuelle Zusatzleistungen</b> ermöglichen gesundheitliche Erfolge.<br>Dr. Braun verfügt über eine langjährige Erfahrung in der Erstellung von neurologischen / psychiatrischen <b>Gutachten</b>.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
-        },
-        {
           "title": "FAQ",
           "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
           "category1": "Aliquam erat volutpat",
@@ -1354,13 +1139,14 @@
           "_name": "accordion2",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#222222"
             }
           },
           "_anchor": "accordion2-1m",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "tabsLeft": "6",
@@ -1399,7 +1185,7 @@
           "titleC3": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Kosmetik<span></span></a>",
           "textC3": "<b>Botox® und Filler:</b><div>Bei kosmetischen Behandlungen wird Botox vor allem zur Verminderung von Falten eingesetzt.</div><div>In Kombination mit Hyaloronsäure (Filler) werden kosmetisch die günstigeren Ergebnisse erzielt.</div>",
           "titleC4": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Gutachten<span></span></a>",
-          "textC4": "Dr. Braun verfügt über eine langjährigr Erfahrung in der Erstellung von neurologischen / psychiatrischen Gutachten. Dr. Braun ist seit 2009 von der Deutschen Gesellschaft für Neurowissenschaftliche Begitachtung als qualifizierter neurologischer Gutachter zertifiziert.<div><br></div><div>Sozialgerichte / Landgerichte:</div><div>In der Regel erfolgt die Beauftragung zur Gutachtenerstellung über ein Gericht nach § 106 (Sozialgericht in Berlin und Brandenburg, Landessozialgericht Berlin-Brandenburg, Landgericht Berlin, Potsdam, Frankfurt (Oder), Rostock etc.).</div><div>auch nach § 109 auf Wunsch des Klägers/Klägerin, was zumindest vorher von der Rechtsvertretung angefragt wird und dann vom Gericht aus beauftragt wird.</div><div>Die Streitfälle vor Gericht betreffen zumeist die Minderung der Erwerbsfähigkeit, Grad der  Schwerbehinderung, Anerkennung eines Schadens als Arbeitsunfall, Behandlungsfehler im Arzthaftungsrechts.</div><div>Forensische Gutachten (Schuldfähigkeit bei Straftaten, etc.) werden von Dr. Braun nicht ersteöllt.</div><div><br></div><div>Führerschein und Gutachten:</div><div>Dr. Braun besitzt die Zertifizierung zur Erstellung von Gutachten die Fahreignung betreffend, sog. \"Führerscheingutachten\".</div><div>Wird der Führerscheinanwärter oder Besitzer einer Fahrererlaubnis vom Landeseinwohneramt, Abt. Fahrerlaubnis aufgefordert, ein neurologisch / psychiatrisches Gutachten erstellen zu lassen, kann das hier durchgeführt werden.</div><div>Die Termine zu diesen Gutachten werden ausschließlich von Frau Braun vergeben.</div><div><br></div>",
+          "textC4": "Dr. Braun verfügt über eine langjährigr Erfahrung in der Erstellung von neurologischen / psychiatrischen Gutachten. Dr. Braun ist seit 2009 von der Deutschen Gesellschaft für Neurowissenschaftliche Begitachtung als qualifizierter neurologischer Gutachter zertifiziert.<div><br></div><div>Sozialgerichte / Landgerichte:</div><div>In der Regel erfolgt die Beauftragung zur Gutachtenerstellung über ein Gericht nach § 106 (Sozialgericht in Berlin und Brandenburg, Landessozialgericht Berlin-Brandenburg, Landgericht Berlin, Potsdam, Frankfurt (Oder), Rostock etc.).</div><div>Auch nach § 109 auf Wunsch des Klägers/Klägerin, was zumindest vorher von der Rechtsvertretung angefragt wird und dann vom Gericht aus beauftragt wird.</div><div>Die Streitfälle vor Gericht betreffen zumeist die Minderung der Erwerbsfähigkeit, Grad der  Schwerbehinderung, Anerkennung eines Schadens als Arbeitsunfall, Behandlungsfehler im Arzthaftungsrechts.</div><div>Forensische Gutachten (Schuldfähigkeit bei Straftaten, etc.) werden von Dr. Braun nicht ersteöllt.</div><div><br></div><div>Führerschein und Gutachten:</div><div>Dr. Braun besitzt die Zertifizierung zur Erstellung von Gutachten die Fahreignung betreffend, sog. \"Führerscheingutachten\".</div><div>Wird der Führerscheinanwärter oder Besitzer einer Fahrererlaubnis vom Landeseinwohneramt, Abt. Fahrerlaubnis aufgefordert, ein neurologisch / psychiatrisches Gutachten erstellen zu lassen, kann das hier durchgeführt werden.</div><div>Die Termine zu diesen Gutachten werden ausschließlich von Frau Braun vergeben.</div><div><br></div>",
           "titleC5": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
           "textC5": "Dr. Braun verfügt über eine langjährigr Erfahrung in der Erstellung von neurologischen / psychiatrischen Gutachten. Dr. Braun ist seit 2009 von der Deutschen Gesellschaft für Neurowissenschaftliche Begitachtung als qualifizierter neurologischer Gutachter zertifiziert.<div><br></div><div>Sozialgerichte / Landgerichte:</div><div>In der Regel erfolgt die Beauftragung zur Gutachtenerstellung über ein Gericht nach § 106 (Sozialgericht in Berlin und Brandenburg, Landessozialgericht Berlin-Brandenburg, Landgericht Berlin, Potsdam, Frankfurt (Oder), Rostock etc.).</div><div>auch nach § 109 auf Wunsch des Klägers/Klägerin, was zumindest vorher von der Rechtsvertretung angefragt wird und dann vom Gericht aus beauftragt wird.</div><div>Die Streitfälle vor Gericht betreffen zumeist die Minderung der Erwerbsfähigkeit, Grad der  Schwerbehinderung, Anerkennung eines Schadens als Arbeitsunfall, Behandlungsfehler im Arzthaftungsrechts.</div><div>Forensische Gutachten (Schuldfähigkeit bei Straftaten, etc.) werden von Dr. Braun nicht ersteöllt.</div><div><br></div><div>Führerschein und Gutachten:</div><div>Dr. Braun besitzt die Zertifizierung zur Erstellung von Gutachten die Fahreignung betreffend, sog. \"Führerscheingutachten\".</div><div>Wird der Führerscheinanwärter oder Besitzer einer Fahrererlaubnis vom Landeseinwohneramt, Abt. Fahrerlaubnis aufgefordert, ein neurologisch / psychiatrisches Gutachten erstellen zu lassen, kann das hier durchgeführt werden.</div><div>Die Termine zu diesen Gutachten werden ausschließlich von Frau Braun vergeben.</div><div><br></div>",
           "titleC6": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
@@ -1416,6 +1202,91 @@
           "textR5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
           "titleR6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
           "textR6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#03592d"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#03592d"
+            },
+            ".link, .dropdown-item": {
+              "color": "#03592d"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ca9801"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#eeb301!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fdbe01"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#03592d",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#03592d"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-1q",
+          "_params": {
+            "bgColor": "#fdbe01",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#03592d",
+            "fontHoverColor": "#222",
+            "transparent": false,
+            "sticky": true,
+            "logo": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-name-574x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
         }
       ]
     },
@@ -1627,6 +1498,11 @@
             "Theme"
           ],
           "_name": "text4",
+          "_styles": {
+            "P": {
+              "color": "#757575"
+            }
+          },
           "_anchor": "text4-1v",
           "_params": {
             "paddingTop": "0",
@@ -1648,12 +1524,7 @@
           },
           "title": "",
           "text1": "Verantwortlich für den Inhalt:<br><br>Dr. Jörg Braun<br>Bahnhoftstraße 12<br>12305 Berlin<br><br>Tel.: <a href=\"tel:+49307447267\">+49(030)7447267</a><br><br>Email: <a href=\"mailto:praxis@neurologe-braun.de\" target=\"_blank\">praxis@neurologe-braun.de</a>&nbsp;<br>Diese Mailadresse gilt nur für den Praxisinhaber, nicht für Termine &nbsp;und Verordnungen!<br><br>Arzt für Neurologie und Psychiatrie<br>",
-          "text2": "Zuständiger Berufsverband:<br><br>Ärztekammer Berlin<br><br>Die Berufsordnung ist einsehbar bei der Ärztekammer Berlin, <br>Friedrichstraße 16, 10969 Berlin,<br>sowie der Kassenärztlichen Vereinigung Berlin, Masurenallee 6 A, 14057 Berlin<br><br>Approbation und Promotion wurden in Deutschland, Berlin erworben.<br><br><br><i>Bilder von Johannes Thiem , fotolia.de<br>Webdesign: ThiemOne Webdesign (Johannes Thiem)</i><br><br>",
-          "_styles": {
-            "P": {
-              "color": "#757575"
-            }
-          }
+          "text2": "Zuständiger Berufsverband:<br><br>Ärztekammer Berlin<br><br>Die Berufsordnung ist einsehbar bei der Ärztekammer Berlin, <br>Friedrichstraße 16, 10969 Berlin,<br>sowie der Kassenärztlichen Vereinigung Berlin, Masurenallee 6 A, 14057 Berlin<br><br>Approbation und Promotion wurden in Deutschland, Berlin erworben.<br><br><br>Bilder von Johannes Thiem und fotolia.de<br>Webdesign: ThiemOne Webdesign (Johannes Thiem)<br><br>"
         },
         {
           "title": "FAQ",
