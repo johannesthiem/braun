@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "index.html",
+    "currentPage": "impressum.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -454,7 +454,7 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Senden</a>",
-          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>addresse",
+          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>adresse",
           "text1": "Bahnhofstraße 12, 12305 Berlin-Lichtenrade<br>2. Stock, Fahrstuhl&nbsp;",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
           "text2": "<p><a href=\"mailto:praxis-dr.braun@t-online.de\" target=\"_blank\">praxis-dr.braun@t-online.de</a><a href=\"mailto:sample@sample.com\"></a></p>",
@@ -1483,8 +1483,8 @@
             "showText": true
           },
           "title": "",
-          "text1": "Verantwortlich für den Inhalt:<br><br>Dr. Jörg Braun<br>Bahnhoftstraße 12<br>12305 Berlin<br><br>Tel.: <a href=\"tel:+49307447267\">+49(030)7447267</a><br><br>Email: <a href=\"mailto:praxis@neurologe-braun.de\" target=\"_blank\">praxis@neurologe-braun.de</a>&nbsp;<br>Diese Mailadresse gilt nur für den Praxisinhaber, nicht für Termine &nbsp;und Verordnungen!<br><br>Arzt für Neurologie und Psychiatrie<br>",
-          "text2": "Zuständiger Berufsverband:<br><br>Ärztekammer Berlin<br><br>Die Berufsordnung ist einsehbar bei der Ärztekammer Berlin, <br>Friedrichstraße 16, 10969 Berlin,<br>sowie der Kassenärztlichen Vereinigung Berlin, Masurenallee 6 A, 14057 Berlin<br><br>Approbation und Promotion wurden in Deutschland, Berlin erworben.<br><br><br>Bilder von Johannes Thiem und fotolia.de<br>Webdesign: ThiemOne Webdesign (Johannes Thiem)<br><br>"
+          "text1": "Verantwortlich für den Inhalt:<br><br>Arzt für Neurologie und Psychiatrie<br><br>Dr. Jörg Braun<br>Bahnhoftstraße 12<br>12305 Berlin<br><br>Tel.: <a href=\"tel:+49307447267\">+49(030)7447267</a><br><br>Email:&nbsp;<a href=\"mailto:praxis-dr.braun@t-online.de\">praxis-dr.braun@t-online.de</a><br><br><br>",
+          "text2": "Zuständiger Berufsverband:<br><br>Ärztekammer Berlin<br><br>Die Berufsordnung ist einsehbar bei der Ärztekammer Berlin, <br>Friedrichstraße 16, 10969 Berlin,<br>sowie der Kassenärztlichen Vereinigung Berlin, Masurenallee 6 A, 14057 Berlin<br><br>Approbation und Promotion wurden in Deutschland, Berlin erworben.<br><br><br>Bilder von Johannes Thiem und fotolia.de<br>Webdesign: ThiemOne Webdesign (Johannes Thiem)<br>"
         },
         {
           "title": "FAQ",
