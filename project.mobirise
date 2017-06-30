@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "impressum.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -289,8 +289,8 @@
             "showText": true
           },
           "title": "Sprechzeiten",
-          "text1": "<p><b>KASSENSPRECHZEITEN</b> &nbsp;nach &nbsp;Vereinbarung:<br><br>Montag, Dienstag und Donnerstag &nbsp;&nbsp;<br><span style=\"background-color: inherit;\">10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr</span></p><p>Freitag &nbsp; <br>9-12 &nbsp;Uhr</p><br><p><b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler):<br><br>Montag, Dienstag und Donnerstag &nbsp; &nbsp;9-10 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br>Mittwoch und weitere Termine nach Vereinbarung</p>",
-          "text2": "<b>TELEFON: &nbsp; +<a href=\"tel:+49307447267\">49(030)7447267</a><br></b><br><b><br></b><br><b><br></b><br><b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"index.html\">h i e r</a></b><br>"
+          "text1": "<p><b>KASSENSPRECHZEITEN</b> &nbsp;nach &nbsp;Vereinbarung:<br><br>Montag, Dienstag und Donnerstag &nbsp;&nbsp;<br><span style=\"background-color: inherit;\">10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr</span></p><p>Freitag &nbsp; <br>9-12 &nbsp;Uhr</p><br><p><b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler):<br><br>Montag, Dienstag und Donnerstag<br><span style=\"background-color: inherit;\">9-10 &nbsp;und &nbsp;15-16 &nbsp;Uhr</span></p><p>Mittwoch und weitere Termine nach Vereinbarung</p>",
+          "text2": "<b>TELEFON: &nbsp; +<a href=\"tel:+49307447267\">49(030)7447267</a><br></b><br><b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"index.html\">h i e r</a></b><br>"
         },
         {
           "_styles": {
@@ -449,7 +449,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Nachricht"
+                "customTitle": "Nachricht und Telefonnummer"
               }
             }
           },
