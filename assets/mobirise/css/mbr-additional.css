@@ -3,6 +3,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -553,11 +554,10 @@ a:hover,
 #text9-r P {
   font-size: 46px;
 }
-#text8-1g H3 {
-  color: #03592d;
-}
-#text8-1g P {
-  color: #03592d;
+#text4-29 P {
+  font-family: 'Arapey', sans-serif;
+  font-size: 20px;
+  color: #ffffff;
 }
 #menu1-1 .hide-buttons .nav-btn {
   display: none !important;
@@ -705,10 +705,6 @@ a:hover,
 #menu1-1q .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
-#accordion2-1m P {
-  text-align: left;
-  color: #222222;
-}
 #menu1-1q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -781,6 +777,10 @@ a:hover,
 #menu1-1q .link[aria-expanded="true"],
 #menu1-1q .dropdown-item[aria-expanded="true"] {
   color: #222!important;
+}
+#accordion3-2b P {
+  text-align: left;
+  color: #222222;
 }
 #menu1-1n .hide-buttons .nav-btn {
   display: none !important;
@@ -934,6 +934,10 @@ a:hover,
 #menu1-1q .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
-#content2-20 H4 {
-  text-align: left;
+#text3-2a B {
+  font-size: 16px;
+}
+#text3-2a P {
+  font-size: 16px;
+  color: #ffffff;
 }

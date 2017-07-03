@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "index.html",
+    "currentPage": "leistungen.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 84,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -31,7 +31,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Neurologiepraxis Dr. Jörg Braun Berlin",
+        "title": "Praxis für Neurologie und Psychiatrie Dr. Jörg Braun Berlin",
         "meta_descr": "Dr. Joerg Braun, Neurologe, Psychiater, Praxis, Lichtenrade, Berlin, Multiple Sklerose, Farbdopplersonographie, Liquor, Sauerstofftherapie",
         "header_custom": "",
         "footer_custom": "",
@@ -83,13 +83,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showSubtitle": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Neurologische Praxis</i></span>&nbsp;<br>Dr. med. Jörg Braun",
+          "title": "<span style=\"font-weight: normal;\"><i>Praxis für Neurologie</i></span><br><span style=\"font-weight: normal;\"><i>und Psychiatrie</i></span><br>Dr. med. Jörg Braun",
           "text": "&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-white\" role=\"button\">Termin Online</a>"
         },
@@ -207,14 +207,14 @@
               "name": "phone-intalk",
               "family": "icon54",
               "active": true,
-              "link": "index.html#text8-1g",
+              "link": "index.html#text4-27",
               "size": "50",
               "newWindow": false,
               "color": ""
             }
           },
           "title3": "Kontakt",
-          "text3": "Wir bitten um eine Terminvereinbarung. Neben dem telefonischen Kontakt bieten wir jetzt auch die Möglichkeit, Termine online buchen zu können, was für beide Seiten sicherlich eine Erleichterung sein wird. Medizinisch dringende Anliegen versorgen wir kurzfristig. Unsere Praxis ist mit einem Fahrstuhl zu erreichen.<br>",
+          "text3": "Wir bitten um eine Terminvereinbarung.<br> Medizinisch dringende Anliegen versorgen wir kurzfristig. Unsere Praxis ist mit einem Fahrstuhl zu erreichen.<br>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -260,18 +260,10 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "text8",
-          "_styles": {
-            "H3": {
-              "color": "#03592d"
-            },
-            "P": {
-              "color": "#03592d"
-            }
-          },
-          "_anchor": "text8-1g",
+          "_name": "text4",
+          "_anchor": "text4-27",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
@@ -289,8 +281,46 @@
             "showText": true
           },
           "title": "Sprechzeiten",
-          "text1": "<p><b>KASSENSPRECHZEITEN</b> &nbsp;nach &nbsp;Vereinbarung:<br><br>Montag, Dienstag und Donnerstag &nbsp;&nbsp;<br><span style=\"background-color: inherit;\">10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr</span></p><p>Freitag &nbsp; <br>9-12 &nbsp;Uhr</p><br><p><b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler):<br><br>Montag, Dienstag und Donnerstag<br><span style=\"background-color: inherit;\">9-10 &nbsp;und &nbsp;15-16 &nbsp;Uhr</span></p><p>Mittwoch und weitere Termine nach Vereinbarung</p>",
-          "text2": "<b>TELEFON: &nbsp; +<a href=\"tel:+49307447267\">49(030)7447267</a><br></b><br><b>TERMINE &nbsp;ONLINE </b><br><br>Seit neustem können Sie Ihre Termine&nbsp;<br>online&nbsp;buchen!<br><br>Bitte klicken Sie &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"index.html\">h i e r</a></b><br>"
+          "text1": "<b>KASSENSPRECHZEITEN</b>&nbsp; nach &nbsp;Vereinbarung:<br><br><b>Montag, Dienstag und Donnerstag</b><br>10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr<br><br><b>Freitag</b><br>9-12 &nbsp;Uhr",
+          "text2": "<b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler) nach Vereinbarung:<br><br><b>Montag, Dienstag und Donnersta</b>g<br>9-12 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br><br><b>Mittwoch</b> und weitere Termine nach Verinbarung"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text4",
+          "_anchor": "text4-29",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#03592d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": false,
+            "showText": true
+          },
+          "title": "Columns with heading",
+          "text1": "<b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (030) 744 72 67</a>",
+          "text2": "<b>Fax: </b>&nbsp;+49 (030) 744 90 86",
+          "_styles": {
+            "P": {
+              "font-family": "'Arapey', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arapey:400,400i",
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -375,7 +405,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-27\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
         },
         {
           "media": {
@@ -548,7 +578,7 @@
     },
     "ueberuns.html": {
       "settings": {
-        "title": "Neurologiepraxis Dr. Jörg Braun Berlin | Über uns"
+        "title": "Praxis für Neurologie und Psychiatrie Dr. Jörg Braun Berlin | Über uns"
       },
       "components": [
         {
@@ -579,7 +609,7 @@
             "showText": false,
             "showButtons": false
           },
-          "subtitle": "Neurologische Praxis Dr. med. Jörg Braun",
+          "subtitle": "Praxis für Neurologie und Psychiatrie &nbsp;<br>Dr. med. Jörg Braun",
           "title": "<span style=\"font-weight: normal;\"><i>Über</i></span> uns",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
@@ -856,7 +886,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-27\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -967,7 +997,7 @@
     "leistungen.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Neurologiepraxis Dr. Jörg Braun Berlin | Leistungen"
+        "title": "Praxis für Neurologie und Psychiatrie Dr. Jörg Braun Berlin | Leistungen"
       },
       "components": [
         {
@@ -998,7 +1028,7 @@
             "showText": true,
             "showButtons": false
           },
-          "subtitle": "Neurologische Praxis Dr. med. Jörg Braun",
+          "subtitle": "Praxis für Neurologie und Psychiatrie &nbsp;<br>Dr. med. Jörg Braun",
           "title": "<span style=\"font-weight: normal;\"><i>Die</i></span> Leistungen",
           "text": "Mit gezielten <b>diagnostischen Maßnahmen</b> erkennen wir neurologische und psychiatrische Erkrankungen.  Verschiedene&nbsp;<b>therapeutische Maßnahmen </b>und <b>individuelle Zusatzleistungen</b> ermöglichen gesundheitliche Erfolge.<br>Dr. Braun verfügt über eine langjährige Erfahrung in der Erstellung von neurologischen / psychiatrischen <b>Gutachten</b>.<br><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
@@ -1080,88 +1110,6 @@
             "bgColorRadio": true
           },
           "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
-        },
-        {
-          "title": "FAQ",
-          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
-          "category1": "Aliquam erat volutpat",
-          "category2": "Phasellus non ullamcorper",
-          "category3": "Curabitur faucibus viverra",
-          "category4": "Fusce mattis iaculis",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>This is a accordion Title 1</a>",
-          "title2": "well quality management",
-          "title3": "cooperative work",
-          "title4": "brainstorming",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "accordion2",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#222222"
-            }
-          },
-          "_anchor": "accordion2-1m",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showText": true,
-            "tabsLeft": "6",
-            "tabsCenter": "4",
-            "tabsRight": "4",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotolia-48899381-m-2000x1137.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#ffffff",
-            "columns": 2
-          },
-          "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Doppler- und Duplexsonographie &nbsp;(Diagnostik)<span></span></a>",
-          "textL1": "Untersucht werden die Halsschlagadern und die weiteren Arterien, die das Gehirn mit Blut versorgen.<div>Die Untersuchung gibt Aufschluss über Verkalkungen und Verengungen der Blutgefäße, sie dient der Früherkennung eines drohenden Schlaganfalls.</div><div><br></div>",
-          "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Elektromyographie &nbsp;EMG &nbsp;/ &nbsp;Elektroneurographie &nbsp;NLG &nbsp; (Diagnostik)<span></span></a>",
-          "textL2": "Mit dieser Untersuchungsmethode werden die Nerven und Muskeln gemessen. Die Stimulation erfolft mittels kurzer Stromimpulse, die Ableitung zumeist mit Oberflächenelektroden. Die Untersuchung kann als etwas unangenekm empfunden werden, ist aber ungefährlich und relativ schmerzfrei.<div><br></div>",
-          "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Elektroenzephalografie &nbsp;EEG &nbsp;(Diagnostik)<span></span></a>",
-          "textL3": "Das EEG misst die Gehirnströme durch Abnleitung von 20 Elektroden, die auf die Kopfhaut aufgesetzt werden. Die Haare sollten möglichst gewaschen sein ohne Zusatz von Haarspray oder Festiger.<div><br></div>",
-          "titleL4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Evozierte Potentiale &nbsp;VEP &nbsp;SEP &nbsp;AEP &nbsp;(Diagnostik)<span></span></a>",
-          "textL4": "Diese Untersuchungen messen die Sehbahn, die Hörbahn und die gesamte Bahn der Sensibilität vermittelten Nervenfasern von den Beinen bis zum Gehirn. Es wird entweder optisch, akustisch oder mittels niedriger Stromimpulse stimuliert.<div>Diese Untersuchungen sind schmerzlos und ungefährlich.</div><div><br></div>",
-          "titleL5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Liquor &nbsp;(Sog. Nervenwasser) &nbsp;(Diagnostik)<span></span></a>",
-          "textL5": "Das Gehirn und das Rückenmark werden von einer wasserklaren Flüssigkeit (Liquor) umhüllt, was zum Schutz gegen Stöße und Verletzungen dient. Die Zusammensetzung der Flüssigkeit kann wichtige Informationen bei verschiedenen neurologischen Erkrankungen geben und kann oft durch andere Untersuchungen nicht ersetzt werden. Entnommen wird der Liquor im Bereich der unteren Lendenwirbelsäule. Die Untersuchung dauert nur etea 10 Minuten, nach der Untersuchung verbleibt die/die Untersuchte noch 30 Minuten in der Praxis liegend.<div><br></div>",
-          "titleL6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Labor &nbsp;(Diagnostik)<span></span></a>",
-          "textL6": "<p>Es werden sämtliche notwendigen Laboruntersuchungen durch Blutentnahme oder Urinabgabe in der Praxis vorgenommen.</p><p><br></p><p><br></p>",
-          "titleC1": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Therapeutische Leistungen<span></span></a>",
-          "textC1": "Botox® (Botulinumtoxin) ist ein medizinischer Wirkstoff, der seit mehr als 20 Jahren in der Neurologie angewendet wird, um unerwünschte Nervenimpulse zu blockieren. Ein neuerer Anwendungsbereich ist z.B. die chronische Migräne, lange bewährt ist die Substanz bei Spastik und Dystonie.<div><br></div>",
-          "titleC2": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Individuelle Gesundheitsleistungen<span></span></a>",
-          "textC2": "<b>Sauerstoffmehrschritttherapie nach Prof. Ardenne:&nbsp;</b><div>Sie wird angewendet zur besseren Sauerstoffversorgung der Zellen. Diese Therapie kommt bei durchblutungsabhängigen Erkrankungen wie Schwindel, Gedächtnisstörungen, Konzentrationsstörungen, Kopfschmerzen und auch im Schmerzbereich zur Anwendung.</div><div><br></div><div><b>Lichttherapie:</b></div><div>Bei saisonalen Verstimmungen (typische Winterdepression) erzielt die Lichttherapie (min. 10.000 Lux) gute Behandlungserfolge. Sie ist schmerzlos und problemlos in der Anwendung.</div><div><br></div><div><b>Vitaminkuren:</b></div><div>Insbesondere bei chronischem Vitaminmangel (z.B. Vitamin B1, B12, Folsäure) ist die parenterale Gabe der Vitamine unersetzbar.</div><div><br></div>",
-          "titleC3": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Kosmetik<span></span></a>",
-          "textC3": "<b>Botox® und Filler:</b><div>Bei kosmetischen Behandlungen wird Botox vor allem zur Verminderung von Falten eingesetzt.</div><div>In Kombination mit Hyaloronsäure (Filler) werden kosmetisch die günstigeren Ergebnisse erzielt.</div>",
-          "titleC4": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Gutachten<span></span></a>",
-          "textC4": "Dr. Braun verfügt über eine langjährigr Erfahrung in der Erstellung von neurologischen / psychiatrischen Gutachten. Dr. Braun ist seit 2009 von der Deutschen Gesellschaft für Neurowissenschaftliche Begitachtung als qualifizierter neurologischer Gutachter zertifiziert.<div><br></div><div>Sozialgerichte / Landgerichte:</div><div>In der Regel erfolgt die Beauftragung zur Gutachtenerstellung über ein Gericht nach § 106 (Sozialgericht in Berlin und Brandenburg, Landessozialgericht Berlin-Brandenburg, Landgericht Berlin, Potsdam, Frankfurt (Oder), Rostock etc.).</div><div>Auch nach § 109 auf Wunsch des Klägers/Klägerin, was zumindest vorher von der Rechtsvertretung angefragt wird und dann vom Gericht aus beauftragt wird.</div><div>Die Streitfälle vor Gericht betreffen zumeist die Minderung der Erwerbsfähigkeit, Grad der  Schwerbehinderung, Anerkennung eines Schadens als Arbeitsunfall, Behandlungsfehler im Arzthaftungsrechts.</div><div>Forensische Gutachten (Schuldfähigkeit bei Straftaten, etc.) werden von Dr. Braun nicht ersteöllt.</div><div><br></div><div>Führerschein und Gutachten:</div><div>Dr. Braun besitzt die Zertifizierung zur Erstellung von Gutachten die Fahreignung betreffend, sog. \"Führerscheingutachten\".</div><div>Wird der Führerscheinanwärter oder Besitzer einer Fahrererlaubnis vom Landeseinwohneramt, Abt. Fahrerlaubnis aufgefordert, ein neurologisch / psychiatrisches Gutachten erstellen zu lassen, kann das hier durchgeführt werden.</div><div>Die Termine zu diesen Gutachten werden ausschließlich von Frau Braun vergeben.</div><div><br></div>",
-          "titleC5": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
-          "textC5": "Dr. Braun verfügt über eine langjährigr Erfahrung in der Erstellung von neurologischen / psychiatrischen Gutachten. Dr. Braun ist seit 2009 von der Deutschen Gesellschaft für Neurowissenschaftliche Begitachtung als qualifizierter neurologischer Gutachter zertifiziert.<div><br></div><div>Sozialgerichte / Landgerichte:</div><div>In der Regel erfolgt die Beauftragung zur Gutachtenerstellung über ein Gericht nach § 106 (Sozialgericht in Berlin und Brandenburg, Landessozialgericht Berlin-Brandenburg, Landgericht Berlin, Potsdam, Frankfurt (Oder), Rostock etc.).</div><div>auch nach § 109 auf Wunsch des Klägers/Klägerin, was zumindest vorher von der Rechtsvertretung angefragt wird und dann vom Gericht aus beauftragt wird.</div><div>Die Streitfälle vor Gericht betreffen zumeist die Minderung der Erwerbsfähigkeit, Grad der  Schwerbehinderung, Anerkennung eines Schadens als Arbeitsunfall, Behandlungsfehler im Arzthaftungsrechts.</div><div>Forensische Gutachten (Schuldfähigkeit bei Straftaten, etc.) werden von Dr. Braun nicht ersteöllt.</div><div><br></div><div>Führerschein und Gutachten:</div><div>Dr. Braun besitzt die Zertifizierung zur Erstellung von Gutachten die Fahreignung betreffend, sog. \"Führerscheingutachten\".</div><div>Wird der Führerscheinanwärter oder Besitzer einer Fahrererlaubnis vom Landeseinwohneramt, Abt. Fahrerlaubnis aufgefordert, ein neurologisch / psychiatrisches Gutachten erstellen zu lassen, kann das hier durchgeführt werden.</div><div>Die Termine zu diesen Gutachten werden ausschließlich von Frau Braun vergeben.</div><div><br></div>",
-          "titleC6": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
-          "textC6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "titleR1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Collapsible Group Item #1<span></span></a>",
-          "textR1": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "titleR2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Collapsible Group Item #2<span></span></a>",
-          "textR2": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "titleR3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Collapsible Group Item #3<span></span></a>",
-          "textR3": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "titleR4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Collapsible Group Item #4<span></span></a>",
-          "textR4": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "titleR5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
-          "textR5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "titleR6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
-          "textR6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>"
         },
         {
           "_styles": {
@@ -1246,13 +1194,95 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-27\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+        },
+        {
+          "title": "FAQ",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
+          "category1": "Aliquam erat volutpat",
+          "category2": "Phasellus non ullamcorper",
+          "category3": "Curabitur faucibus viverra",
+          "category4": "Fusce mattis iaculis",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>This is a accordion Title 1</a>",
+          "title2": "well quality management",
+          "title3": "cooperative work",
+          "title4": "brainstorming",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion3",
+          "_anchor": "accordion3-2b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showTitle": true,
+            "showText": true,
+            "tabsLeft": "6",
+            "tabsCenter": "4",
+            "tabsRight": "4",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotolia-48899381-m-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
+            "columns": "2"
+          },
+          "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">DOPPLER- UND DUPLEXSONOGRAPHIE  (DIAGNOSTIK)<br><span></span></a>",
+          "textL1": "<p>Untersucht werden die Halsschlagadern und die weiteren Arterien, die das Gehirn mit Blut versorgen.<br><span style=\"line-height: 1.6em; background-color: inherit;\">Die Untersuchung gibt Aufschluss über Verkalkungen und Verengungen der Blutgefäße, sie dient der Früherkennung eines drohenden Schlaganfalls.</span></p>",
+          "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Elektromyographie &nbsp;EMG &nbsp;/ &nbsp;Elektroneurographie &nbsp;NLG (Diagnostik)<span></span></a>",
+          "textL2": "<p>Mit dieser Untersuchungsmethode werden die Nerven und Muskeln gemessen. Die Stimulation erfolft mittels kurzer Stromimpulse, die Ableitung zumeist mit Oberflächenelektroden. Die Untersuchung kann als etwas unangenekm empfunden werden, ist aber ungefährlich und relativ schmerzfrei.</p>",
+          "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">EVOZIERTE POTENTIALE  VEP  SEP  AEP  (DIAGNOSTIK)<br><span></span></a>",
+          "textL3": "<p>Diese Untersuchungen messen die Sehbahn, die Hörbahn und die gesamte Bahn der Sensibilität vermittelten Nervenfasern von den Beinen bis zum Gehirn. Es wird entweder optisch, akustisch oder mittels niedriger Stromimpulse stimuliert.</p><p>Diese Untersuchungen sind schmerzlos und ungefährlich.</p><p><br></p>",
+          "titleL4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">LIQUOR  (SOG. NERVENWASSER)  (DIAGNOSTIK)<br><span></span></a>",
+          "textL4": "<p>Das Gehirn und das Rückenmark werden von einer wasserklaren Flüssigkeit (Liquor) umhüllt, was zum Schutz gegen Stöße und Verletzungen dient. Die Zusammensetzung der Flüssigkeit kann wichtige Informationen bei verschiedenen neurologischen Erkrankungen geben und kann oft durch andere Untersuchungen nicht ersetzt werden. Entnommen wird der Liquor im Bereich der unteren Lendenwirbelsäule. Die Untersuchung dauert nur etea 10 Minuten, nach der Untersuchung verbleibt die/die Untersuchte noch 30 Minuten in der Praxis liegend.</p>",
+          "titleL5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">LABOR  (DIAGNOSTIK)<br><span></span></a>",
+          "textL5": "<p>Es werden sämtliche notwendigen Laboruntersuchungen durch Blutentnahme oder Urinabgabe in der Praxis vorgenommen.</p>",
+          "titleL6": "",
+          "textL6": "",
+          "titleC1": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">THERAPEUTISCHE LEISTUNGEN<br><span></span></a>",
+          "textC1": "<p>Nach spezifischen Untersuchungen erfolt in der Regel die Stellung einer Diagnose.</p><p>Nach Diagnoseerstellung kann eine Behandlung eingeleitet werden. Die Behandlung wird mit dem Patienten zusammen in der Sprechstunde festgelegt.</p><p>Bei akuten neurologischen Notfällen kann eine Infusionstherapie notwendig werden (z. B. hochdosierte Kortisonfusionen bei Multiple Sklerose-Schub, oder Injektionen bei spezifischen Schmerzgeschehen).</p><p><br></p><p>Eine Injektionsbehandlung mit Botox® (Botulinumtoxin) ist sowohl im kassenärztlichen Bereich, aber auch als individuelle Leistung (z. B. bei vermehrtem Schwitzen) eine therapeutische Möglichkeit.</p><p>Botox®  ist ein medizinischer Wirkstoff, der seit mehr als 20 Jahren in der Neurologie angewendet wird, um unerwünschte Nervenimpulse zu blockieren. Ein neuerer Anwendungsbereich ist z.B. die chronische Migräne, lange bewährt ist die Substanz bei Spastik und Dystonie.</p><p><br></p><p>Bei psychiatrischen Notfällen ersetzt das Gespräch oft ein Medikament.</p>",
+          "titleC2": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">INDIVIDUELLE GESUNDHEITSLEISTUNGEN<br><span></span></a>",
+          "textC2": "<p>Sauerstoffmehrschritttherapie nach Prof. Ardenne:&nbsp;</p><p>Sie wird angewendet zur besseren Sauerstoffversorgung der Zellen. Diese Therapie kommt bei durchblutungsabhängigen Erkrankungen wie Schwindel, Gedächtnisstörungen, Konzentrationsstörungen, Kopfschmerzen und auch im Schmerzbereich zur Anwendung.</p><p><br></p><p>Lichttherapie:</p><p>Bei saisonalen Verstimmungen (typische Winterdepression) erzielt die Lichttherapie (min. 10.000 Lux) gute Behandlungserfolge. Sie ist schmerzlos und problemlos in der Anwendung.</p><p><br></p><p>Vitaminkuren:</p><p>Insbesondere bei chronischem Vitaminmangel (z.B. Vitamin B1, B12, Folsäure) ist die parenterale Gabe der Vitamine unersetzbar.</p><p><br></p>",
+          "titleC3": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">KOSMETIK<br><span></span></a>",
+          "textC3": "Botox® und Filler:<div>Bei kosmetischen Behandlungen wird Botox vor allem zur Verminderung von Falten eingesetzt.</div><div>In Kombination mit Hyaloronsäure (Filler) werden kosmetisch die günstigeren Ergebnisse erzielt.</div>",
+          "titleC4": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">GUTACHTEN<br><span></span></a>",
+          "textC4": "<p>Dr. Braun verfügt über eine langjährigr Erfahrung in der Erstellung von neurologischen / psychiatrischen Gutachten. Dr. Braun ist seit 2009 von der Deutschen Gesellschaft für Neurowissenschaftliche Begitachtung als qualifizierter neurologischer Gutachter zertifiziert.</p><br><p>Sozialgerichte / Landgerichte:</p><p>In der Regel erfolgt die Beauftragung zur Gutachtenerstellung über ein Gericht nach § 106 (Sozialgericht in Berlin und Brandenburg, Landessozialgericht Berlin-Brandenburg, Landgericht Berlin, Potsdam, Frankfurt (Oder), Rostock etc.).</p><p>Auch nach § 109 auf Wunsch des Klägers/Klägerin, was zumindest vorher von der Rechtsvertretung angefragt wird und dann vom Gericht aus beauftragt wird.</p><p>Die Streitfälle vor Gericht betreffen zumeist die Minderung der Erwerbsfähigkeit, Grad der Schwerbehinderung, Anerkennung eines Schadens als Arbeitsunfall, Behandlungsfehler im Arzthaftungsrechts.</p><p>Forensische Gutachten (Schuldfähigkeit bei Straftaten, etc.) werden von Dr. Braun nicht ersteöllt.</p><p><br></p><p>Führerschein und Gutachten:</p><p>Dr. Braun besitzt die Zertifizierung zur Erstellung von Gutachten die Fahreignung betreffend, sog. \"Führerscheingutachten\".</p><p>Wird der Führerscheinanwärter oder Besitzer einer Fahrererlaubnis vom Landeseinwohneramt, Abt. Fahrerlaubnis aufgefordert, ein neurologisch / psychiatrisches Gutachten erstellen zu lassen, kann das hier durchgeführt werden.</p><p>Die Termine zu diesen Gutachten werden ausschließlich von Frau Braun vergeben.</p><p><br></p><p><br></p>",
+          "titleC5": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
+          "textC5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleC6": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
+          "textC6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Collapsible Group Item #1<span></span></a>",
+          "textR1": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Collapsible Group Item #2<span></span></a>",
+          "textR2": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Collapsible Group Item #3<span></span></a>",
+          "textR3": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Collapsible Group Item #4<span></span></a>",
+          "textR4": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
+          "textR5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
+          "textR6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#222222"
+            }
+          }
         }
       ]
     },
     "impressum.html": {
       "settings": {
-        "title": "Neurologiepraxis Dr. Jörg Braun Berlin | Impressum"
+        "title": "Praxis für Neurologie und Psychiatrie Dr. Jörg Braun Berlin | Impressum"
       },
       "components": [
         {
@@ -1283,7 +1313,7 @@
             "showText": false,
             "showButtons": false
           },
-          "subtitle": "Neurologische Praxis Dr. med. Jörg Braun",
+          "subtitle": "Praxis für Neurologie und Psychiatrie &nbsp;<br>Dr. med. Jörg Braun",
           "title": "<span style=\"font-weight: normal;\"><i>Das</i></span>&nbsp;Impressum",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
@@ -1371,7 +1401,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-27\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
         },
         {
           "media": {
@@ -1571,7 +1601,7 @@
     },
     "links.html": {
       "settings": {
-        "title": "Neurologiepraxis Dr. Jörg Braun Berlin | Links"
+        "title": "Praxis für Neurologie und Psychiatrie Dr. Jörg Braun Berlin | Links"
       },
       "components": [
         {
@@ -1602,7 +1632,7 @@
             "showText": false,
             "showButtons": false
           },
-          "subtitle": "Neurologische Praxis Dr. med. Jörg Braun",
+          "subtitle": "Praxis für Neurologie&nbsp;und Psychiatrie &nbsp;<br>Dr. med. Jörg Braun",
           "title": "<span style=\"font-weight: normal;\"><i>Links</i></span>&nbsp;zu medizinischen Portalen",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
@@ -1690,7 +1720,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text8-1g\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ueberuns.html\">Über uns</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"leistungen.html\">Leistungen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-27\">Kontakt</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"links.html\">Links</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"impressum.html\">Impressum</a></li>"
         },
         {
           "media": {
@@ -1771,254 +1801,44 @@
           "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 320,
-              "src": "@THEME_PATH@/components/_images/about.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<em>Our</em> Design",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
+          "_name": "text3",
+          "_anchor": "text3-2a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotolia-73290220-la.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
+            "showTitle": false,
+            "showText": true
+          },
+          "title": "Columns with heading",
+          "text1": "<p><b>ALLGEMEIN</b><br><a href=\"http://www.kvberlin.de\" target=\"_blank\">www.kvberlin.de</a><a href=\"http://www.kvberlin.de\"></a>- Kassenärztliche Vereinigung<br><a href=\"http://www.aerztekammer-berlin.de\" target=\"_blank\">www.aerztekammer-berlin.de</a> - Ärztekammer<br><a href=\"http://www.dgn.org\" target=\"_blank\">www.dgn.org</a> - Deutsche Neurologische Gesellschaft<br><a href=\"http://www.awmf.org \" target=\"_blank\">www.awmf.org </a> - Portal der Wissenschaftlichen Medizin --&gt; Leitlinien (Patienteninformation)<br><br><b>BOTULINUM-TOXIN</b><br><a href=\"http://www.botulinumtoxin.de\" target=\"_blank\">www.botulinumtoxin.de </a>- Arbeitskreis Botulinumtoxin, DGN<br><br><b>EPILEPSIE</b><br><a href=\"http://www.epilepsie-vereinigung.de\" target=\"_blank\">www.epilepsie-vereinigung.de</a> - Deutsche Epilepsievereinigung<br><br><b>ANGST</b><br><a href=\"http://www.angstselbsthilfe.de\" target=\"_blank\">www.angstselbsthilfe.de</a> - Angst-Hilfe e.V.<br><br></p>",
+          "text2": "<b>PORTALE IN ENGLISCHER SPRACHE (WISSENSCHAFTLICH)</b><br><a href=\"http://www.pubmed.gov\" target=\"_blank\">www.pubmed.gov</a> - The National Library of Medicine<br>www.cochrane.org - Evidence basierte Medizin<br><br><b>MUSKELKRANKHEITEN UND BEWEGUNGSSTÖRUNGEN</b><br><a href=\"http://www.dgm.org\" target=\"_blank\">www.dgm.org</a> - Deutsche Gesellschaft für Muskelkranke<br><br><b>PSYCHIATRIE</b><br><a href=\"http://www.dgppn.de\" target=\"_blank\">www.dgppn.de</a> - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde<br><br><b>ZWÄNGE</b><br><a href=\"http://www.zwaenge.de\" target=\"_blank\">www.zwaenge.de</a> - Deutsche Gesellschaft Zwangserkrankungen e.V.<br>",
+          "text3": "<b>MULTIPLE SKLEROSE</b><br><a href=\"http://www.dmsg.de\" target=\"_blank\">www.dmsg.de</a> - Deutsche Multiple Sklerose Gesellschaft<br><br><b>PARKINSON</b><br><a href=\"http://www.parkinson-gesellschaft.de\" target=\"_blank\">www.parkinson-gesellschaft.de</a> - Deutsche Parkinsongesellschaft<br><br><b>DEPRESSION</b><br><a href=\"http://www.depressionsliga.de\" target=\"_blank\">www.depressionsliga.de</a> - Deutsche Depressionsliga<br>",
           "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content2-20",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "B": {
+              "font-size": "16px"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#151515",
-            "columns": 6,
-            "showImages": false,
-            "showTitle": true
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "target",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
             }
-          },
-          "title1": "Allgemein",
-          "text1": "<a href=\"http://www.kvberlin.de\" target=\"_blank\">www.kvberlin.de</a> - Kassenärztliche Vereinigung<br><a href=\"http://www.aerztekammer-berlin.de \" target=\"_blank\">www.aerztekammer-berlin.de </a>- Ärztekammer<br><a href=\"http://www.dgn.org \" target=\"_blank\">www.dgn.org </a>- Deutsche Neurologische Gesellschaft<br><a href=\"http://www.,awmf.org \" target=\"_blank\">www.,awmf.org </a>- Portal der Wissenschaftlichen Medizin  --&gt; Leitlinien (Patienteninformation)<br>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title2": "Portale in englischer Sprache (wissenschaftlich)",
-          "text2": "<a href=\"http://www.pubmed.gov\" target=\"_blank\">www.pubmed.gov</a> - The National Library of Medicine<br><a href=\"http://www.cochrane.org\" target=\"_blank\">www.cochrane.org</a> - Evidence basierte Medizin<br>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "refresh",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title3": "multiple Sklerose",
-          "text3": "<a href=\"http://www.dmsg.de\" target=\"_blank\">www.dmsg.de</a> - Deutsche Multiple Sklerose Gesellschaft",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "profile-female",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title4": "Botulinum-Toxin",
-          "text4": "<a href=\"http://www.botulinumtoxin.de\" target=\"_blank\">www.botulinumtoxin.de</a> - Arbeitskreis Botulinumtoxin, DGN",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "caution",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title5": "Muskelkrankheiten und Bewegungsstörungen",
-          "text5": "<a href=\"http://www.dgm.org\" target=\"_blank\">www.dgm.org</a> - Deutsche Gesellschaft für Muskelkranke",
-          "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "profile-male",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title6": "Parkinson",
-          "text6": "<a href=\"http://www.parkinson-gesellschaft.de\" target=\"_blank\">www.parkinson-gesellschaft.de</a> - Deutsche Parkinsongesellschaft"
-        },
-        {
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 320,
-              "src": "@THEME_PATH@/components/_images/about.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<em>Our</em> Design",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-21",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.75,
-            "overlayColor": "#151515",
-            "columns": 6,
-            "showImages": false,
-            "showTitle": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title1": "Epilepsie",
-          "text1": "<a href=\"http://www.epilepsie-vereinigung.de\" target=\"_blank\">www.epilepsie-vereinigung.de</a> - Deutsche Epilepsievereinigung",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "chat",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title2": "Psychiatrie",
-          "text2": "<a href=\"http://www.dgppn.de\" target=\"_blank\">www.dgppn.de</a> - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "sad",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title3": "Depression",
-          "text3": "<a href=\"http://www.depressionsliga.de\" target=\"_blank\">www.depressionsliga.de</a> - Deutsche Depressionsliga",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "scope",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title4": "Angst",
-          "text4": "<a href=\"http://www.angstselbsthilfe.de\" target=\"_blank\">www.angstselbsthilfe.de</a> - Angst-Hilfe e.V.",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "recycle",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title5": "Zwänge",
-          "text5": "<a href=\"http://www.zwaenge.de\" target=\"_blank\">www.zwaenge.de</a> - Deutsche Gesellschaft Zwangserkrankungen e.V.",
-          "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "edit",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title6": "",
-          "text6": ""
+          }
         }
       ]
     }
