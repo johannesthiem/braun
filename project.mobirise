@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "links.html",
+    "currentPage": "leistungen.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -282,7 +282,7 @@
           },
           "title": "Sprechzeiten",
           "text1": "<b>KASSENSPRECHZEITEN</b>&nbsp; nach &nbsp;Vereinbarung:<br><br><b>Montag, Dienstag und Donnerstag</b><br>10-12 &nbsp;und &nbsp;16-18 &nbsp;Uhr<br><br><b>Freitag</b><br>9-12 &nbsp;Uhr",
-          "text2": "<b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler) nach Vereinbarung:<br><br><b>Montag, Dienstag und Donnersta</b>g<br>9-12 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br><br><b>Mittwoch</b> und weitere Termine nach Verinbarung"
+          "text2": "<b>PRIVATSPRECHSTUNDEN</b> &nbsp;(Privat und Selbstzahler) nach Vereinbarung:<br><br><b>Montag, Dienstag und Donnersta</b>g<br>9-12 &nbsp;und &nbsp;15-16 &nbsp;Uhr<br><br><b>Mittwoch</b> und weitere Termine nach Vereinbarung"
         },
         {
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
@@ -320,7 +320,7 @@
           },
           "title": "Columns with heading",
           "text1": "<b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (030) 744 72 67</a>",
-          "text2": "<b>Fax: </b>&nbsp;+49 (030) 744 90 86"
+          "text2": "<b>Fax: </b>&nbsp;<a href=\"tel:+49307449086\">+49 (030) 744 90 86</a>"
         },
         {
           "_styles": {
@@ -1256,7 +1256,7 @@
           "titleC1": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">THERAPEUTISCHE LEISTUNGEN<br><span></span></a>",
           "textC1": "<p>Nach spezifischen Untersuchungen erfolt in der Regel die Stellung einer Diagnose.</p><p>Nach Diagnoseerstellung kann eine Behandlung eingeleitet werden. Die Behandlung wird mit dem Patienten zusammen in der Sprechstunde festgelegt.</p><p>Bei akuten neurologischen Notfällen kann eine Infusionstherapie notwendig werden (z. B. hochdosierte Kortisonfusionen bei Multiple Sklerose-Schub, oder Injektionen bei spezifischen Schmerzgeschehen).</p><p><br></p><p>Eine Injektionsbehandlung mit Botox® (Botulinumtoxin) ist sowohl im kassenärztlichen Bereich, aber auch als individuelle Leistung (z. B. bei vermehrtem Schwitzen) eine therapeutische Möglichkeit.</p><p>Botox®  ist ein medizinischer Wirkstoff, der seit mehr als 20 Jahren in der Neurologie angewendet wird, um unerwünschte Nervenimpulse zu blockieren. Ein neuerer Anwendungsbereich ist z.B. die chronische Migräne, lange bewährt ist die Substanz bei Spastik und Dystonie.</p><p><br></p><p>Bei psychiatrischen Notfällen ersetzt das Gespräch oft ein Medikament.</p>",
           "titleC2": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">INDIVIDUELLE GESUNDHEITSLEISTUNGEN<br><span></span></a>",
-          "textC2": "<p>Sauerstoffmehrschritttherapie nach Prof. Ardenne:&nbsp;</p><p>Sie wird angewendet zur besseren Sauerstoffversorgung der Zellen. Diese Therapie kommt bei durchblutungsabhängigen Erkrankungen wie Schwindel, Gedächtnisstörungen, Konzentrationsstörungen, Kopfschmerzen und auch im Schmerzbereich zur Anwendung.</p><p><br></p><p>Lichttherapie:</p><p>Bei saisonalen Verstimmungen (typische Winterdepression) erzielt die Lichttherapie (min. 10.000 Lux) gute Behandlungserfolge. Sie ist schmerzlos und problemlos in der Anwendung.</p><p><br></p><p>Vitaminkuren:</p><p>Insbesondere bei chronischem Vitaminmangel (z.B. Vitamin B1, B12, Folsäure) ist die parenterale Gabe der Vitamine unersetzbar.</p><p><br></p>",
+          "textC2": "<p><b>Sauerstoffmehrschritttherapie nach Prof. Ardenne:</b>&nbsp;</p><p>Sie wird angewendet zur besseren Sauerstoffversorgung der Zellen. Diese Therapie kommt bei durchblutungsabhängigen Erkrankungen wie Schwindel, Gedächtnisstörungen, Konzentrationsstörungen, Kopfschmerzen und auch im Schmerzbereich zur Anwendung.</p><p><br></p><p><b>Lichttherapie:</b></p><p>Bei saisonalen Verstimmungen (typische Winterdepression) erzielt die Lichttherapie (min. 10.000 Lux) gute Behandlungserfolge. Sie ist schmerzlos und problemlos in der Anwendung.</p><p><br></p><p><b>Vitaminkuren:</b></p><p>Insbesondere bei chronischem Vitaminmangel (z.B. Vitamin B1, B12, Folsäure) ist die parenterale Gabe der Vitamine unersetzbar.</p><p><br></p>",
           "titleC3": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">KOSMETIK<br><span></span></a>",
           "textC3": "Botox® und Filler:<div>Bei kosmetischen Behandlungen wird Botox vor allem zur Verminderung von Falten eingesetzt.</div><div>In Kombination mit Hyaloronsäure (Filler) werden kosmetisch die günstigeren Ergebnisse erzielt.</div>",
           "titleC4": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">GUTACHTEN<br><span></span></a>",
