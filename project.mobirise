@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "leistungen.html",
+    "currentPage": "links.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 84,
+    "uniqCompNum": 85,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -291,6 +291,14 @@
             "Theme"
           ],
           "_name": "text4",
+          "_styles": {
+            "P": {
+              "font-family": "'Arapey', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arapey:400,400i",
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "text4-29",
           "_params": {
             "paddingTop": "0",
@@ -312,15 +320,7 @@
           },
           "title": "Columns with heading",
           "text1": "<b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (030) 744 72 67</a>",
-          "text2": "<b>Fax: </b>&nbsp;+49 (030) 744 90 86",
-          "_styles": {
-            "P": {
-              "font-family": "'Arapey', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arapey:400,400i",
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          }
+          "text2": "<b>Fax: </b>&nbsp;+49 (030) 744 90 86"
         },
         {
           "_styles": {
@@ -566,8 +566,8 @@
             "bgColorRadio": true,
             "bgColor": "#03592d"
           },
-          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding\" style=\"background-color: rgb(3, 89, 45);\">\n        \n        <footer class=\"footer\">\n        <div class=\"content-wide\">\n        <div class=\"container-wide container\">\n            <div class=\"row\">\n        \n                <div class=\"copyright nopadding\">\n                    <span class=\"mbr-editable-content\" code-editable-id=\"30\">2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp;| &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;</span>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    </footer>\n</section>",
+          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding\" style=\"background-color: rgb(3, 89, 45);\">\n        \n        <footer class=\"footer\">\n        <div class=\"content-wide\">\n        <div class=\"container-wide container\">\n            <div class=\"row\">\n        \n                <div class=\"copyright nopadding\">\n                    <span class=\"mbr-editable-content\" code-editable-id=\"30\">2017 All rights reserved &nbsp;| &nbsp; &nbsp;Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp;| &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;</span>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    </footer>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
@@ -774,7 +774,7 @@
             "bgColor": "#03592d",
             "bgColorRadio": true
           },
-          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
+          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
           "title": "Text with heading",
@@ -1109,7 +1109,7 @@
             "bgColor": "#03592d",
             "bgColorRadio": true
           },
-          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
+          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
           "_styles": {
@@ -1212,10 +1212,16 @@
             "Theme"
           ],
           "_name": "accordion3",
-          "_anchor": "accordion3-2b",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#222222"
+            }
+          },
+          "_anchor": "accordion3-2c",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "showTitle": true,
             "showText": true,
             "tabsLeft": "6",
@@ -1231,7 +1237,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#ffffff",
             "columns": "2"
           },
@@ -1270,13 +1276,7 @@
           "titleR5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
           "textR5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
           "titleR6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
-          "textR6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#222222"
-            }
-          }
+          "textR6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>"
         }
       ]
     },
@@ -1479,7 +1479,7 @@
             "bgColor": "#03592d",
             "bgColorRadio": true
           },
-          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
+          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
@@ -1495,7 +1495,7 @@
           },
           "_anchor": "text4-1v",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "parallax": false,
             "bgImageRadio": false,
@@ -1539,8 +1539,8 @@
           },
           "_anchor": "accordion1-1w",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "showTitle": true,
             "showText": true,
             "tabsLeft": "2",
@@ -1798,7 +1798,7 @@
             "bgColor": "#03592d",
             "bgColorRadio": true
           },
-          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Neurologische Praxis Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
+          "copyright": "2017 All rights reserved &nbsp;| &nbsp; Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;"
         },
         {
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
@@ -1807,10 +1807,19 @@
             "Theme"
           ],
           "_name": "text3",
+          "_styles": {
+            "B": {
+              "font-size": "16px"
+            },
+            "P": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "text3-2a",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fotolia-73290220-la.jpg",
@@ -1821,7 +1830,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.3",
             "overlayColor": "#ffffff",
             "showTitle": false,
             "showText": true
@@ -1829,16 +1838,7 @@
           "title": "Columns with heading",
           "text1": "<p><b>ALLGEMEIN</b><br><a href=\"http://www.kvberlin.de\" target=\"_blank\">www.kvberlin.de</a><a href=\"http://www.kvberlin.de\"></a>- Kassenärztliche Vereinigung<br><a href=\"http://www.aerztekammer-berlin.de\" target=\"_blank\">www.aerztekammer-berlin.de</a> - Ärztekammer<br><a href=\"http://www.dgn.org\" target=\"_blank\">www.dgn.org</a> - Deutsche Neurologische Gesellschaft<br><a href=\"http://www.awmf.org \" target=\"_blank\">www.awmf.org </a> - Portal der Wissenschaftlichen Medizin --&gt; Leitlinien (Patienteninformation)<br><br><b>BOTULINUM-TOXIN</b><br><a href=\"http://www.botulinumtoxin.de\" target=\"_blank\">www.botulinumtoxin.de </a>- Arbeitskreis Botulinumtoxin, DGN<br><br><b>EPILEPSIE</b><br><a href=\"http://www.epilepsie-vereinigung.de\" target=\"_blank\">www.epilepsie-vereinigung.de</a> - Deutsche Epilepsievereinigung<br><br><b>ANGST</b><br><a href=\"http://www.angstselbsthilfe.de\" target=\"_blank\">www.angstselbsthilfe.de</a> - Angst-Hilfe e.V.<br><br></p>",
           "text2": "<b>PORTALE IN ENGLISCHER SPRACHE (WISSENSCHAFTLICH)</b><br><a href=\"http://www.pubmed.gov\" target=\"_blank\">www.pubmed.gov</a> - The National Library of Medicine<br>www.cochrane.org - Evidence basierte Medizin<br><br><b>MUSKELKRANKHEITEN UND BEWEGUNGSSTÖRUNGEN</b><br><a href=\"http://www.dgm.org\" target=\"_blank\">www.dgm.org</a> - Deutsche Gesellschaft für Muskelkranke<br><br><b>PSYCHIATRIE</b><br><a href=\"http://www.dgppn.de\" target=\"_blank\">www.dgppn.de</a> - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde<br><br><b>ZWÄNGE</b><br><a href=\"http://www.zwaenge.de\" target=\"_blank\">www.zwaenge.de</a> - Deutsche Gesellschaft Zwangserkrankungen e.V.<br>",
-          "text3": "<b>MULTIPLE SKLEROSE</b><br><a href=\"http://www.dmsg.de\" target=\"_blank\">www.dmsg.de</a> - Deutsche Multiple Sklerose Gesellschaft<br><br><b>PARKINSON</b><br><a href=\"http://www.parkinson-gesellschaft.de\" target=\"_blank\">www.parkinson-gesellschaft.de</a> - Deutsche Parkinsongesellschaft<br><br><b>DEPRESSION</b><br><a href=\"http://www.depressionsliga.de\" target=\"_blank\">www.depressionsliga.de</a> - Deutsche Depressionsliga<br>",
-          "_styles": {
-            "B": {
-              "font-size": "16px"
-            },
-            "P": {
-              "font-size": "16px",
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<b>MULTIPLE SKLEROSE</b><br><a href=\"http://www.dmsg.de\" target=\"_blank\">www.dmsg.de</a> - Deutsche Multiple Sklerose Gesellschaft<br><br><b>PARKINSON</b><br><a href=\"http://www.parkinson-gesellschaft.de\" target=\"_blank\">www.parkinson-gesellschaft.de</a> - Deutsche Parkinsongesellschaft<br><br><b>DEPRESSION</b><br><a href=\"http://www.depressionsliga.de\" target=\"_blank\">www.depressionsliga.de</a> - Deutsche Depressionsliga<br>"
         }
       ]
     }
