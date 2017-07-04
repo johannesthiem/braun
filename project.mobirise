@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dr. Braun4",
-    "currentPage": "leistungen.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -185,7 +185,7 @@
             }
           },
           "title1": "Über uns",
-          "text1": "Die Neurologische Praxis Dr. med. Jörg Braun befindet sich in der Bahnhofstraße im Bezirk Berlin-Lichtenrade. Schon seit vielen Jahren kümmert sich das Team in angenehmer Atmosphäre um die Gesundheit der Patienten. <br><br>Wir freuen uns auf Ihren Besuch!<br>",
+          "text1": "Die Praxis für Neurologie und Psychiatrie Dr. med. Jörg Braun befindet sich in der Bahnhofstraße im Bezirk Berlin-Lichtenrade. Schon seit vielen Jahren kümmert sich das Team in angenehmer Atmosphäre um die Gesundheit der Patienten. <br><br>Wir freuen uns auf Ihren Besuch!<br>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -295,8 +295,12 @@
             "P": {
               "font-family": "'Arapey', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Arapey:400,400i",
-              "font-size": "20px",
+              "font-size": "18px",
               "color": "#ffffff"
+            },
+            "B": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_anchor": "text4-29",
@@ -319,7 +323,7 @@
             "showText": true
           },
           "title": "Columns with heading",
-          "text1": "<b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (030) 744 72 67</a>",
+          "text1": "<p><b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (030) 744 72 67</a></p>",
           "text2": "<b>Fax: </b>&nbsp;<a href=\"tel:+49307449086\">+49 (030) 744 90 86</a>"
         },
         {

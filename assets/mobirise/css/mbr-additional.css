@@ -4,6 +4,7 @@
 
 
 
+
 /*TITLE*/
 .alert,
 h1,
@@ -556,8 +557,11 @@ a:hover,
 }
 #text4-29 P {
   font-family: 'Arapey', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #ffffff;
+}
+#text4-29 B {
+  font-family: 'Lato', sans-serif;
 }
 #menu1-1 .hide-buttons .nav-btn {
   display: none !important;
