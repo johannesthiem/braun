@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 89,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -293,8 +293,8 @@
           "_name": "text4",
           "_styles": {
             "P": {
-              "font-family": "'Arapey', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arapey:400,400i",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "18px",
               "color": "#ffffff"
             },
@@ -323,8 +323,8 @@
             "showText": true
           },
           "title": "Columns with heading",
-          "text1": "<p><b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (030) 744 72 67</a></p>",
-          "text2": "<b>Fax: </b>&nbsp;<a href=\"tel:+49307449086\">+49 (030) 744 90 86</a>"
+          "text1": "<p><b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (0)30 744 72 67</a></p>",
+          "text2": "<b>Fax: </b>&nbsp;<a href=\"tel:+49307449086\">+49 (0)30 744 90 86</a>"
         },
         {
           "_styles": {
@@ -636,8 +636,8 @@
           "_name": "content4",
           "_anchor": "content4-x",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/2.jpg",
@@ -659,7 +659,7 @@
           "media1": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/portrait-braun-516x348.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cimg4326.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -669,12 +669,12 @@
           },
           "title1": "Dr. med. Jörg Braun",
           "subtitle1": "Project manager",
-          "text1": "<br>Geboren in Saarbrücken<br>Studium Betriebswirtschaft 1974-1976 und<br>Medizin 1976-1982 in Berlin<br>Staatsexamen 1982, Promotion 1983<br>Facharztausbildung Neurologie und<br>Psychiatrie, <br>Dezember 1982 - April 1988, Krankenhaus Moabit<br>Oberarzttätigkeit 1988-1994, Neurologie, Klinikum Neukölln<br>Praxistätigkeit ab April&nbsp;<span style=\"background-color: inherit;\">1994&nbsp;</span><br>",
+          "text1": "<br>Geboren in Saarbrücken<br>Studium Betriebswirtschaft 1974-1976 und<br>Medizin 1976-1982 in Berlin<br>Staatsexamen 1982, Promotion 1983<br>Facharztausbildung <br>Neurologie und&nbsp;Psychiatrie, <br>Dezember 1982 - April 1988, Krankenhaus Moabit<br>Oberarzttätigkeit 1988-1994, Neurologie, <br>Klinikum Neukölln<br>Praxistätigkeit ab April&nbsp;<span style=\"background-color: inherit;\">1994&nbsp;</span><br>",
           "icons1": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "media2": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7e5-586x391.png",
+              "src": "@PROJECT_PATH@/assets/images/cimg4322.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -684,12 +684,12 @@
           },
           "title2": "Edyta Braun",
           "subtitle2": "Web-designer",
-          "text2": "<br>Geboren in Plock (Masuren)<br>Abitur und Examen als Krankenschwester 1987<br>Tätigkeit als Krankenschwester St. Gertrauden Krankenhaus Berlin<br>Studium Pharmazie, FU Berlin bis 1994<br>Praxistätigkeit ab 1994<br>Ausbildung als Studienassistentin klinischer Studien (Study nurse)",
+          "text2": "<br>Geboren in Plock (Masuren)<br>Abitur und Examen als Krankenschwester 1987<br>Tätigkeit als Krankenschwester <br>St. Gertrauden Krankenhaus Berlin<br>Studium Pharmazie, FU Berlin bis 1994<br>Praxistätigkeit ab 1994<br>Ausbildung als Studienassistentin<br> klinischer Studien (Study Nurse)",
           "icons2": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "media3": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cimg4321.jpg",
               "active": true,
               "link": "",
               "alt": "",
@@ -697,9 +697,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Viola Blaschke-Stendahl",
+          "title3": "Viola Blaschke",
           "subtitle3": "Art-Director",
-          "text3": "<br>Medizinische Fachangestellte<br>Praxistätigkeit seit 2012",
+          "text3": "<br>Geboren in Berlin<br>Seit 1984 examinierte Arzthelferin<br>Praxistätigkeit bei Dr. Braun seit 2012",
           "icons3": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> "
         },
         {
@@ -907,8 +907,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -917,8 +917,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cimg4329-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cimg4329-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -927,8 +927,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c8-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c8-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -937,8 +937,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c9-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cimg4305-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cimg4305-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -947,8 +947,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7d9-2000x1332.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7c5-kopie.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -957,8 +957,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7dc-2000x1332-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7dc-2000x1332.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-110185439-s-kopie-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-110185439-s-kopie-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -967,8 +967,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cc-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cc-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cd-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7cd-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -977,8 +977,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "file:///Users/johannesthiem/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview_1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a7ca-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cimg4342-kopie-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cimg4342-kopie.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
