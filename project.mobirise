@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -291,19 +291,7 @@
             "Theme"
           ],
           "_name": "text4",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "18px",
-              "color": "#ffffff"
-            },
-            "B": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "text4-29",
+          "_anchor": "text4-2h",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -323,8 +311,17 @@
             "showText": true
           },
           "title": "Columns with heading",
-          "text1": "<p><b>Telefon: </b>&nbsp;<a href=\"tel:+49307447267\">+49 (0)30 744 72 67</a></p>",
-          "text2": "<b>Fax: </b>&nbsp;<a href=\"tel:+49307449086\">+49 (0)30 744 90 86</a>"
+          "text1": "<span style=\"background-color: inherit;\">Telefon: &nbsp;</span><a href=\"tel:+49307447267\">+49 (0)30 744 72 67</a><br><b><br></b>",
+          "text2": "<span style=\"background-color: inherit;\">Fax: &nbsp;</span><a href=\"tel:+49307449086\">+49 (0)30 744 90 86</a><br><b><br></b>",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -491,9 +488,9 @@
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>adresse",
           "text1": "Bahnhofstraße 12, 12305 Berlin-Lichtenrade<br>2. Stock, Fahrstuhl&nbsp;",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
-          "text2": "<p><a href=\"mailto:praxis-dr.braun@t-online.de\" target=\"_blank\">praxis-dr.braun@t-online.de</a><a href=\"mailto:sample@sample.com\"></a></p>",
+          "text2": "<p><a href=\"mailto:praxis-dr.braun@t-online.de\" target=\"_blank\"><b>praxis-dr.braun@t-online.de</b></a><a href=\"mailto:sample@sample.com\"></a></p>",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Telefon",
-          "text3": "<p><a href=\"tel:+49307447267\">+49(030)7447267</a><a href=\"tel:+49307447267\"></a><a href=\"tel:+138 (095) 6526 538\"></a></p>"
+          "text3": "<p><a href=\"tel:+49307447267\"><b>+49(0)307447267</b></a><a href=\"tel:+49307447267\"></a><a href=\"tel:+138 (095) 6526 538\"></a></p>"
         },
         {
           "media": {
@@ -571,7 +568,7 @@
             "bgColor": "#03592d"
           },
           "copyright": "2017 All rights reserved &nbsp;| &nbsp; Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp; | &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding\" style=\"background-color: rgb(3, 89, 45);\">\n        \n        <footer class=\"footer\">\n        <div class=\"content-wide\">\n        <div class=\"container-wide container\">\n            <div class=\"row\">\n        \n                <div class=\"copyright nopadding\">\n                    <span class=\"mbr-editable-content\" code-editable-id=\"30\">2017 All rights reserved &nbsp;| &nbsp; &nbsp;Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp;| &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;</span>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    </footer>\n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-section mbr-section--no-padding\" style=\"background-color: rgb(3, 89, 45);\">\n        \n        <footer class=\"footer\">\n        <div class=\"content-wide\">\n        <div class=\"container-wide container\">\n            <div class=\"row\">\n        \n                <div class=\"copyright nopadding\">\n                    <span class=\"mbr-editable-content\" code-editable-id=\"33\">2017 All rights reserved &nbsp;| &nbsp; &nbsp;Praxis für Neurologie und Psychiatrie &nbsp;Dr. med. Jörg Braun &nbsp;| &nbsp; Development by Mobirise&nbsp;| &nbsp;ThiemOne WEBDESIGN&nbsp;&nbsp;</span>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    </footer>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
